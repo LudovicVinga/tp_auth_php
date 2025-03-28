@@ -36,6 +36,7 @@
                 </div>
             </div>
 
+            
             <div class="col-lg-6">
                 <!-- Image -->
                  <img class="img-fluid" src="/assets/images/register.png" alt="Image invitant à vous inscrire.">
